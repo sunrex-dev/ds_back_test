@@ -1,0 +1,14 @@
+venv/
+temp/
+logs/*
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+.env.*
+
+### vscode ###
+*.code-workspace

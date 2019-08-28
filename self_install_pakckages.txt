@@ -1,0 +1,33 @@
+Django
+django-cors-headers
+django-filter
+djangorestframework
+djangorestframework-simplejwt
+djoser
+
+# 連番生成用
+django-sequences
+
+# MYSQL連携用
+mysqlclient
+
+# Kintone API連携用
+pykintone
+
+# Swagger作成用
+django-rest-swagger
+PyYAML
+
+# models定義の自動生成用
+django-modelsdoc
+
+#ER図の自動生成用
+django-extensions
+pydotplus
+pygraphviz
+
+# Swagger作成用(その２)
+drf-yasg
+
+# デバック情報確認用
+django-debug-toolbar
